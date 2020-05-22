@@ -1,6 +1,7 @@
 title: Jekyll based Web-site
 author: Wispring
 email: your-email@domain.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   A web/blog-site made using the Jekyll framework.
 
